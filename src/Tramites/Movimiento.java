@@ -1,4 +1,4 @@
- package Tramites;
+package Tramites;
 import java.time.LocalDateTime;
 
 public class Movimiento {
